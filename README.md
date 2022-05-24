@@ -1,1 +1,3 @@
-# resbaz_project_2
+# Second ResBaz Project
+
+This is a really nice project. We're going to the moon
